@@ -1,0 +1,19 @@
+/القران-الكريم
+│
+├── index.html
+├── pwa.html
+├── manifest.json
+├── serviceWorker.js
+├── _redirects
+├── netlify.toml
+├── favicon.ico       (استخدم أيقونة المصحف المشاركة)
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── main.js
+│
+├── icons/            (أنشئ أيقونات بأحجام مختلفة من الصورة التي شاركتها)
+│
+└── images/           (للصور الأخرى المستخدمة في التطبيق)
